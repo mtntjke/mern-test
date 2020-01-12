@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "dmitriy youtube mern",
+  "mongoUri": "mongodb+srv://panda:q123456@cluster0-pgq3z.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
